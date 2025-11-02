@@ -3,12 +3,9 @@
 ---
 
 # TEG-Blue_Research_Matrix
-
-
-# TEG-Blue_Research_Matrix
 A collaborative research hub connecting TEG-Blue’s emotional frameworks with global models. Includes the Research Matrix and Tool Library for validation studies, emotional logic mapping, and trauma-informed AI alignment.
 
-# 🧭 TEG-Blue™ — Research Integration Repository  
+# TEG-Blue™ — Research Integration Repository  
 **Emotional Technology for Healing and Repair**
 
 ---
@@ -24,11 +21,11 @@ This space is meant to bridge scientific inquiry, emotional intelligence, and et
 
 ### **What You’ll Find Here**
 
-**📂 `/data/`**  
+** `/data/`**  
 - `TEG-Blue_Research_Matrix.csv` — list of active and proposed research lines, showing how each connects to TEG-Blue frameworks and global models.  
 - `TEG-Blue_Tool_Library.csv` — catalog of open tools and emotional scales available for replication, testing, or integration.
 
-**📂 `/docs/`**  
+** `/docs/`**  
 - `Research_Matrix_Overview.md` — how the matrix is structured and how to contribute to new research lines.  
 - `Tool_Library_Overview.md` — structure, validation notes, and cross-references with the emotional frameworks.  
 - `Collaboration_Guidelines.md` — co-authorship, attribution, and ethical collaboration principles.
@@ -45,7 +42,7 @@ Every research line or tool can be:
 The goal is to create **shared authorship** — where scientific rigor meets emotional coherence.
 
 If you wish to join the validation phase or propose a study, please reach out through the main site:  
-🔗 [https://teg-blue.org](https://teg-blue.org)
+[https://teg-blue.org](https://teg-blue.org)
 
 ---
 
